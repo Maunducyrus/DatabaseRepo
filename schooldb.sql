@@ -23,5 +23,5 @@ Insert into Muranga_Students values(8, "150-1241", "Statistics", 22, "2021-4-12"
 Insert into Muranga_Students values(9, "150-1242", "Actuarial", 23, "2021-4-15", 10, 50);
 Insert into Muranga_Students values(10, "150-1243", "Tourism", 24, "2021-3-14", 11, 60);
 */
-use MurangaUniversitySystem;
-Select * from Muranga_Students
+-- use MurangaUniversitySystem;
+-- Select * from Muranga_Students
