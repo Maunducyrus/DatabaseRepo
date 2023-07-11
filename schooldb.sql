@@ -1,4 +1,4 @@
-/*
+*/
 drop database MurangaUniversitySystem;
 Create database MurangaUniversitySystem;
 Use MurangaUniversitySystem;
